@@ -1,6 +1,6 @@
 [![Build Status][build-img]][build-url]
 
-# copr-zr
+# copr-ices
 
 > Source for my [ices][ices] copr repository.
 
