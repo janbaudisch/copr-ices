@@ -1,5 +1,5 @@
 Name: ices
-Version: 2.0.2
+Version: 2.0.3
 Release: 1%{?dist}
 Summary: Source client for the Icecast streaming server
 License: GPL-2.0-only
